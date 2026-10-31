@@ -5,7 +5,7 @@ GW-LINK L510（MediaTek MT7986A、2 GiB RAM、128 GB eMMC）的公开固件发�
 **[下载正式版](https://github.com/hongheshan-svg/gw-link-l510-firmware/releases/latest)**
 
 选择 `gw-link-l510-…-sysupgrade.bin`，先备份配置，再从路由器后台“系统 → 备份与更新”上传。
-从 **20261031.2-ota** 起，可以在“系统 → OTA 在线升级”检查新版本、下载校验并确认安装。
+从 **20261031.2-ota** 起，可以在左上角品牌下方的版本按钮中检查新版本、下载校验并确认安装。
 后台只自动检查，不自动安装；安装会保留配置并重启。请保持供电。
 
 ## OTA 校验
